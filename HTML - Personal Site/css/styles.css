@@ -2,6 +2,10 @@ body {
     background-color: #FFE6F7;
 }
 
+#xavier:hover {
+    opacity: 0.2;
+}
+
 hr {
     background-color: #FFE6F7; /* unnecessary? */
     border-color: #FFABE1;
@@ -16,4 +20,8 @@ h1 {
 
 h3 {
     color: #C689C6;
+}
+
+.circular {
+    border-radius: 100%;
 }
