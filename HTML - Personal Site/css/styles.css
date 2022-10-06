@@ -3,9 +3,9 @@ body {
 }
 
 hr {
-    background-color: #FFE6F7;
+    background-color: #FFE6F7; /* unnecessary? */
     border-color: #FFABE1;
-    border-style: dotted none none;
+    border-style: dotted none none; /* dotted on top, none of right or left, none on bottom */
     border-width: 10px;
     width: 7%;
 }
